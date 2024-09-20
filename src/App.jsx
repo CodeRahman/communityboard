@@ -1,34 +1,38 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
-import './App.css'
+import './App.css';
+import Board from './components/Board'
 
-function App() {
-  const [count, setCount] = useState(0)
+const App = () => {
 
   return (
-    <>
-      <div>
-        <a href="https://vitejs.dev" target="_blank">
-          <img src={viteLogo} className="logo" alt="Vite logo" />
-        </a>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="logo react" alt="React logo" />
-        </a>
+    <div className="App">
+      <img src='https://heroic-pixie-6d7f91.netlify.app/awning.png' className='topper'></img>
+      <h1>Food Truck Favorites</h1>
+      <div className='boardcomponent'>
+      <Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
+      truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+
+      <Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
+      truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+
+      
+      <Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
+      truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+
+      
+      <Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
+      truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+
+<Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
+      truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+      
+
       </div>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
-        </p>
-      </div>
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
-    </>
+
+      
+      
+      
+      
+    </div>
   )
 }
 
