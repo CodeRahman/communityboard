@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 
 Submitted by: **Abdurrahman Oyediran**
 
-This web app: **insert description**
+This web app: is a sort of sports site. It shows all the upcoming sports games for the University of Southern Mississippi.
 
 Time spent: **5** hours spent in total
 
@@ -37,7 +37,7 @@ Here's a walkthrough of implemented required features:
 <img src='Southern Miss Games.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -45,11 +45,11 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 CodeRahman
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
