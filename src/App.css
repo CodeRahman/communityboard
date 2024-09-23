@@ -1,9 +1,9 @@
 .boardcomponent{
   
-    max-width: 100%;
+    max-width: 95%;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 20px;
+    margin-bottom: 100px;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     grid-gap: 1rem;

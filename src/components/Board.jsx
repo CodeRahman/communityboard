@@ -7,7 +7,7 @@ const Board = (props) => {
             <img src={props.image}/>
             <h3>{props.truckname}</h3>
             <h4>{props.region}</h4>
-            <a href={props.menulink}><button>View Menu</button></a>
+            <a href={props.menulink} target="_blank"><button className="menubutton">View Menu</button></a>
         </div>
          
     )
