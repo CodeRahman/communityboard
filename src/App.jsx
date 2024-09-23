@@ -5,46 +5,45 @@ const App = () => {
 
   return (
     <div className="App">
-      <img src='https://heroic-pixie-6d7f91.netlify.app/awning.png' className='topper'></img>
-      <p className='pagename'>Food Truck Favorites</p>
+      <img className="usmlogo"src='https://dxbhsrqyrr690.cloudfront.net/sidearm.nextgen.sites/southernmiss.com/images/nextgen_2023/main_nav_logo.svg'></img>
+      <p className='pagename'>Southern Miss Games</p>
       <div className='boardcomponent'>
 
-        <Board image='https://pyxis.nymag.com/v1/imgs/38c/2ac/b02a093f6b846ebd1aca78b0d59c7e427a-birria-1.rsocial.w1200.jpg' 
-        truckname='Birria-Landia' region='Mexican' menulink='https://birrialandia.com/'/>
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F21%2FDDD09847.jpg&width=1920&height=1080&type=webp' 
+        gamename='vs South Alabama' sport="Women's Soccer" date="6pm, Sep 26, 2024" links="https://southernmiss.com/sports/womens-soccer" />
 
-        <Board image='https://res.cloudinary.com/the-infatuation/image/upload/c_fill,w_1200,ar_4:3,g_auto,f_auto/cms/reviews/mysttik-masala/banners/1561989798.42' 
-        truckname='Mysttik Masala' region='Indian' menulink='https://indianfoodny.com/'/>
-       
-        <Board image='https://nypost.com/wp-content/uploads/sites/2/2014/08/081114featureshalaguysbz-1.jpg?quality=75&strip=all&w=1024' 
-        truckname='The Halal Guys' region='Middle Eastern' menulink='https://thehalalguys.com/menu/'/>
-
-        <Board image='https://nydosas.com/wp-content/uploads/2018/07/maxresdefault-2-1024x630.jpg' 
-        truckname='NY Dosas' region='Vegetarian' menulink='https://nydosas.com/menu/'/>
-
-        <Board image='https://infatuation.imgix.net/media/images/reviews/jerk-pan/banners/1561989308.8.jpg' 
-        truckname='Jerk Pan' region='Jamaican' menulink='https://www.allmenus.com/ny/new-york/360888-jerk-pan/menu/'/>
-
-        <Board image='https://static01.nyt.com/images/2019/09/04/dining/29hungry-tong2/merlin_159654336_783be212-7726-485e-9250-4793a743af41-jumbo.jpg' 
-        truckname='Tong' region='Bangladeshi' menulink='https://www.facebook.com/Bangladeshistreetfoods/'/>
-
-        <Board image='https://kingsouvlakinyc.com/wp-content/themes/king/images/location-f.jpg' 
-        truckname='King Souvlaki of Astori' region='Greek' menulink='https://kingsouvlakinyc.com/'/>
-        
-        <Board image='https://fastly.4sqi.net/img/general/600x600/61129566_7PLEKHNMZ-VNqzYx2jWRVZGrZ42PdPX0M-j9Ftpg8Ts.jpg' 
-        truckname="Ling's Sweet Mini Cakes" region='Chinese' menulink='https://canalstreet.market/'/>
-        
-        <Board image='https://d3hbe0kmbam4a5.cloudfront.net/photos/67e1cdb7-bc27-4f26-8343-851bfaa7fc22.jpg' 
-        truckname="Uncle Gussy's" region='Greek' menulink='https://unclegussys.com/menus/'/>
-
-        <Board image='https://live.staticflickr.com/8088/8400188739_53b16c7d13_z.jpg' 
-        truckname='Patacon Pisao' region='Venezuelan' menulink='https://www.pataconpisaonyc.com/menus/'/>
-
-        <Board image='https://infatuation.imgix.net/media/images/reviews/moms-momo/banners/1606245507.888788.png' 
-        truckname="Mom's Mono" region='Tibetan' menulink='https://www.restaurantji.com/ny/jackson-heights/moms-momo-/menu/'/>
-
-        <Board image='https://fastly.4sqi.net/img/general/600x600/784042_29bZZHPGisHnWqyIuuXMo8D2zzW7QS6Hft7Vv15SH_I.jpg' 
-        truckname='Makina Cafe' region='Ethiopian' menulink='https://makinacafenyc.com/'/>
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F20%2F9.19atState_Website_2.jpg&width=1920&height=1080&type=webp' 
+        gamename='vs ULM' sport="Women's Volleyball" date="6pm, Sep 27, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
       
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F18%2FIMG_0753.jpg&width=1024&height=683&type=webp' 
+        gamename='vs ULM' sport="Women's Volleyball" date="2pm, Sep 28, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F17%2FDDD02169.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Texax State' sport="Women's Soccer(Free)" date="1pm, Sep 29, 2024" links="https://southernmiss.com/sports/womens-soccer" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F19%2FDDD09039.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Arkansas State' sport="Women's Volleyball" date="6pm, Oct 3, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F17%2F8_31_VBvsJacksonville_114.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Arkansa State' sport="Women's Volleyball" date="6pm, Oct 4, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
+        
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F14%2F3P8A1108.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Louisiana Ragin Cajuns' sport="Men's Football" date="TBA, Oct 5, 2024" links="https://southernmiss.com/sports/football" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F8%2F3P8A7600.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Coastal Carolina' sport="Women's Soccer(Free)" date="1pm, Oct 6, 2024" links="https://southernmiss.com/sports/womens-soccer" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F6%2F6W8A8699.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Marshall' sport="Women's Soccer(Free)" date="4pm, Oct 10, 2024" links="https://southernmiss.com/sports/womens-soccer" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F13%2F5K9A8805_gVnf6.JPEG&width=1024&height=683&type=webp' 
+        gamename='vs Louisiana Ragin Cajuns' sport="Women's Volleyball" date="6pm, 0ct 10, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
+        
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F12%2FDDD04025__2_.jpg&width=1024&height=683&type=webp' 
+        gamename='vs Louisiana Ragin Cajuns' sport="Women's Volleyball" date="6pm, 0ct 11, 2024" links="https://southernmiss.com/sports/womens-volleyball" />
+
+        <Board image='https://images.sidearmdev.com/crop?url=https%3A%2F%2Fdxbhsrqyrr690.cloudfront.net%2Fsidearm.nextgen.sites%2Fsouthernmiss.com%2Fimages%2F2024%2F9%2F7%2F0T0A0592.jpg&width=1024&height=683&type=webp' 
+        gamename='vs ULM' sport="Men's Football" date="TBA, Oct 12, 2024" links="https://southernmiss.com/sports/football" />
       </div>
 
       

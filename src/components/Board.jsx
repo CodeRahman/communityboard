@@ -4,10 +4,11 @@ const Board = (props) => {
 
     return (
         <div className="Board">
-            <img src={props.image}/>
-            <h3>{props.truckname}</h3>
-            <h4>{props.region}</h4>
-            <a href={props.menulink} target="_blank"><button className="menubutton">View Menu</button></a>
+            <img src={props.image} className="displayimg"/>
+            <h3>{props.gamename}</h3>
+            <h4>{props.sport}</h4>
+            <h4>{props.date}</h4>
+            <a href={props.links} target="_blank"><button className="infobutton">View Info</button></a>
         </div>
          
     )
