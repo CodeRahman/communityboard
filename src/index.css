@@ -1,11 +1,11 @@
 body{
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-.App{
+.Board{
   width: 90%;
   margin: auto;
 }
-.Board{
+.Subboard{
   width: 300px;
   background-color: #FFFFFF;
   box-shadow: 0 15px 25px #817c7c33;
