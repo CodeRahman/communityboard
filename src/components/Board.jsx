@@ -7,7 +7,7 @@ const Board = () => {
         <div className="Board">
             
 
-            <Subboard image='./images/footballulm.webp' 
+            <Subboard image='https://shorturl.at/Dcckx' 
             gamename='vs ULM' sport="Men's Football" date="TBA, Oct 12, 2024" links="https://southernmiss.com/sports/football" />
         </div>
          
