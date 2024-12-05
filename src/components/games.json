@@ -4,97 +4,97 @@
         "gamename": "at Alcorn State",
         "sport": "Women's Soccer",
         "date": "Canceled, Oct 17, 2024",
-        "links": "https://southernmiss.com/sports/womens-soccer"
+        "link": "https://southernmiss.com/sports/womens-soccer"
     },
     {
         "image": "https://shorturl.at/SXR4Q",
         "gamename": "vs South Alabama",
         "sport": "Women's Volleyball",
         "date": "6pm, Oct 17, 2024",
-        "links": "https://southernmiss.com/sports/womens-volleyball"
+        "link": "https://southernmiss.com/sports/womens-volleyball"
     },
     {
         "image": "https://shorturl.at/lH6Ld",
         "gamename": "vs South Alabama",
         "sport": "Women's Volleyball",
         "date": "6pm, Oct 18, 2024",
-        "links": "https://southernmiss.com/sports/womens-volleyball"
+        "link": "https://southernmiss.com/sports/womens-volleyball"
     },
     {
         "image": "https://shorturl.at/bOmiy",
         "gamename": "vs Arkansas State",
         "sport": "Men's Football",
         "date": "6pm, Oct 19, 2024",
-        "links": "https://southernmiss.com/sports/football"
+        "link": "https://southernmiss.com/sports/football"
     },
     {
         "image": "https://tinyurl.com/wsocvtroy",
         "gamename": "vs Troy",
         "sport": "Women's Soccer",
         "date": "1pm, Oct 20, 2024",
-        "links": "https://southernmiss.com/sports/womens-soccer"
+        "link": "https://southernmiss.com/sports/womens-soccer"
       },
       {
         "image": "https://tinyurl.com/mbbatneworleans",
         "gamename": "at New Orleans (exhibition)", 
         "sport": "Men's Basketball",
         "date": "TBA, Oct 22, 2024",
-        "links": "https://southernmiss.com/sports/mens-basketball"
+        "link": "https://southernmiss.com/sports/mens-basketball"
       },
       {
         "image": "https://tinyurl.com/wsocvsragincajuns",
         "gamename": "vs Louisiana Ragin' Cajuns",
         "sport": "Women's Soccer",
         "date": "3pm, Oct 24, 2024",
-        "links": "https://southernmiss.com/sports/womens-soccer"
+        "link": "https://southernmiss.com/sports/womens-soccer"
     },
     {
         "image": "https://tinyurl.com/wvbbvsolddominion",
         "gamename": "vs Old Dominion",
         "sport": "Women's Volleyball",
         "date": "6pm, Oct 25, 2024",
-        "links": "https://southernmiss.com/sports/womens-volleyball"
+        "link": "https://southernmiss.com/sports/womens-volleyball"
     },
     {
         "image": "https://tinyurl.com/mfbatjamesmadison",
         "gamename": "at James Madison",
         "sport":"Men's Football",
         "date": "TBA, Oct 26, 2024",
-        "links": "https://southernmiss.com/sports/football"
+        "link": "https://southernmiss.com/sports/football"
     },
     {
         "image": "https://tinyurl.com/wvbbvsolddominion2",
         "gamename": "vs Old Dominion",
         "sport": "Women's Volleyball",
         "date": "Noon, Oct 26, 2024",
-        "links": "https://southernmiss.com/sports/womens-volleyball"
+        "link": "https://southernmiss.com/sports/womens-volleyball"
     },
     {
         "image": "https://tinyurl.com/wsocatgeorgiasouthern",
         "gamename": "at Georgia Southern",
         "sport": "Women's Soccer",
         "date": "Noon ET/11am CT, Oct 27, 2024",
-        "links": "https://southernmiss.com/sports/womens-soccer"
+        "link": "https://southernmiss.com/sports/womens-soccer"
     },
     {
         "image": "https://tinyurl.com/mbbvsjacksonstate",
         "gamename": "vs Jackson State (exhibition)", 
         "sport": "Men's Basketball",
         "date": "6pm, Oct 28, 2024",
-        "links": "https://southernmiss.com/sports/mens-basketball"
+        "link": "https://southernmiss.com/sports/mens-basketball"
       },
       {
         "image": "https://tinyurl.com/wbbvsmississippicollege",
         "gamename": "vs Mississippi College (exhibition)", 
         "sport": "Women's Basketball",
         "date": "6pm, Oct 30, 2024",
-        "links": "https://southernmiss.com/sports/womens-basketball"
+        "link": "https://southernmiss.com/sports/womens-basketball"
       },
       {
           "image": "https://tinyurl.com/wsocatulm",
           "gamename": "at ULM",
           "sport": "Women's Soccer",
           "date": "6pm, Oct 31, 2024",
-          "links": "https://southernmiss.com/sports/womens-soccer"
+          "link": "https://southernmiss.com/sports/womens-soccer"
       }
   ]
