@@ -1,6 +1,5 @@
 # Southern Miss Games 🎟️🏟️
 
-![Southern Miss Logo](https://www.usm.edu/sites/default/files/2021-04/usm-logo.png) 
 *A web application showcasing upcoming University of Southern Mississippi athletic events*
 
 ## Features
